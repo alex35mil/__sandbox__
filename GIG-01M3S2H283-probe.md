@@ -1,0 +1,1 @@
+Disposable workflow probe base.
